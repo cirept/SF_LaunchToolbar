@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c207e51d6520479282e36ba68b15ba35)](https://www.codacy.com/app/cirept612/SF_LaunchToolbar?utm_source=github.com&utm_medium=referral&utm_content=cirept/SF_LaunchToolbar&utm_campaign=badger)
 [![GitHub release](https://img.shields.io/github/release/cirept/salesforceToolbar.svg)](https://github.com/cirept/salesforceToolbar/releases)
 
 ## How to Install Launch Toolbar
