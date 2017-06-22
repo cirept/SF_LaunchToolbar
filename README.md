@@ -6,7 +6,7 @@
 1. Open this link in a new tab (ctrl+click the link)<br>
 [latest Tampermonkey Code Here](https://raw.githubusercontent.com/cirept/salesforceToolbar/master/launchToolbar_meta.js)
 
-2. Copy all the code that appears
+2. Copy all the code that appears in the text area
 
 3. Click the Tampermonkey icon in your Chrome browser<br>
 ![Click Addon Icon](https://cdn.rawgit.com/cirept/NextGen/master/images/clickIcon.png)
