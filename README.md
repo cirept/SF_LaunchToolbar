@@ -13,9 +13,9 @@
 
 4. Click 'create a new script...'
 
-5. ctrl+a, will highlight all the code in the text area.
+5. Press ctrl+a, will highlight all the code in the text area.
 
-6. ctrl+v, will paste the code that you copied earlier.
+6. Press ctrl+v, will paste the code that you copied earlier.
 
 7. Save the code
 
